@@ -358,42 +358,6 @@ nav {
 }
 
 /* Sección de Educación */
-/* .education-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 30px;
-}
-
-.education-item {
-    background-color: white;
-    padding: 30px;
-    border-radius: var(--border-radius-lg);
-    box-shadow: var(--shadow);
-    transition: var(--transition);
-}
-
-.education-item:hover {
-    transform: translateY(-10px);
-}
-
-.education-icon {
-    font-size: 2.5rem;
-    color: var(--primary-color);
-    margin-bottom: 20px;
-}
-
-.education-item h3 {
-    margin-bottom: 10px;
-    color: var(--dark-color);
-}
-
-.education-item h4 {
-    margin-bottom: 15px;
-    color: var(--primary-color);
-    font-weight: 500;
-} */
-
-/* Sección de Educación */
 .education-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -1219,5 +1183,3 @@ footer {
         justify-content: center;
     }
 }
-
-profile-img
